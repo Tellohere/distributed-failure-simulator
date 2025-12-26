@@ -23,8 +23,8 @@ Network → Databases → Web Servers
 - Streamlit
 - Monte Carlo Simulation
 
-## How to Run
-
-### CLI Simulator
-```bash
-python3 main.py
+## Future Improvemets
+- Add Degraded States
+- Failure Prediction using ML
+- Failure Probablity
+- Time Base Load Analysis
